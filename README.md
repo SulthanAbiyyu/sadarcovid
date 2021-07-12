@@ -15,7 +15,7 @@ This is a learning project showcase that i have been working for. It's quiet sim
 1. Clone the repo
 
    ```
-   git clone <project URL>
+   git clone https://github.com/SulthanAbiyyu/sadarcovid.git
    ```
 
 2. Install NPM packages
