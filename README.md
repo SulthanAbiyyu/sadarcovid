@@ -2,9 +2,14 @@
 
 > 12 July 2021 | Sulthan Abiyyu
 
-![Apps Appearance](https://i.imgur.com/3QQ3IYx.png)
+<p align="center">
+   <img src="https://i.imgur.com/3QQ3IYx.png" alt="App Appearence">
 
-​
+</p>
+<p align="center"><a href="https://sadarcovid.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-website-red?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a></p>
+
+
+
 
 ## About Project
 
